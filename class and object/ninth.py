@@ -19,7 +19,7 @@ class employee:
         print(" ID : ",self.id," Name : ",self.name," Salary : ",self.salary)
 
 emp1 = employee(201,"Neha",20000)
-emp1 = employee(202,"Sharadha",50000)
+emp2 = employee(202,"Sharadha",50000)
 
 emp1.displaycount()
 emp1.displayamount()
